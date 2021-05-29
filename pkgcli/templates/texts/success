@@ -1,0 +1,5 @@
+[placeholder_package_name] initiated successfully.
+Check setup.py and update accordingly(i.e license, readme etc.)
+run 'pip install -e .' (preferably create a virtual env)
+Your newly crated package should be installed without any error.
+run command '[placeholder_package_name]' in your terminal to check if package is working.
